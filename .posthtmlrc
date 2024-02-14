@@ -7,12 +7,229 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "The National Association for Intercollegiate Basketball Tournament in 1947 marked a historic moment in collegiate basketball. Legendary basketball coach John Wooden, with Indiana State University, was the first team to roster a Black player for the competition. While Clarence Walker stepping onto the floor marked a new era of Black basketball players being able to compete at all levels of collegiate basketball, it was not until thirty years later that the same would happen at the coaching level in the Ivy League."
+          },
+          {
+            "type": "text",
+            "value": "This lag in the inception of Black basketball coaches has become a major issue over the past several years. In 2023, at non-historically Black colleges and universities, Black collegiate athletes made up more than half of Division I men’s basketball players. However, only 28 percent of Division I head coaches were Black, with a majority of Black coaches holding the assistant coach position."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "barchart.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Men’s basketball assistant coach Tobe Carberry, like many Black coaches at the collegiate level, understands the importance of being there for athletes who look like him, especially since he was once in their shoes."
+          },
+          {
+            "type": "text",
+            "value": "“I’m an African American coach that has been through the same type of struggles,” Carberry said. “That’s one thing as coaches: We’re not just limited to the work that we do with them on the floor. We try to support our guys in every way possible.”"
+          },
+          {
+            "type": "text",
+            "value": "Carberry grew up playing basketball, baseball, and football in New Haven, Connecticut. His father, Tony Carberry, helped him find his love for basketball at a young age; playing competitively one-on-one against his dad while growing up fostered his love for the sport."
+          },
+          {
+            "type": "text",
+            "value": "“He made sure that we always had a hoop and then we would go out, when I was old enough, to have competitive one-on-ones in the driveway,” Carberry recalled."
+          },
+          {
+            "type": "text",
+            "value": "His mother, Belinda Carberry, also inspired his childhood love of basketball by bringing him to high school basketball games in the community. His father played the role of “having someone in your corner that would just put you out there so that I could develop my confidence.”"
+          },
+          {
+            "type": "text",
+            "value": "Tobe Carberry credits his father with giving him opportunities to play basketball throughout his childhood as well. These opportunities and relationships were crucial to developing his knowledge of the sport and coaching since “you learn how to speak to people, you learn how to be coached … and it exposes you to so much.”"
+          },
+          {
+            "type": "text",
+            "value": "Both of Tobe Carberry’s parents held roles in education, with his mother being a teacher and principal and his dad being an admissions counselor in higher education. This upbringing immersed Carberry in a household of discipline, holding him to a high standard of education."
+          },
+          {
+            "type": "text",
+            "value": "“If none of my grades were right, I couldn’t play,” Carberry said. “We had a family standard that I had to adhere to.”"
+          },
+          {
+            "type": "text",
+            "value": "After graduating from Hillhouse High School, Carberry committed to the University of Vermont."
+          },
+          {
+            "type": "text",
+            "value": "“The decision to go to Vermont was all about academics,” Carberry said. “It was a lot different from my high school. … Obviously, Vermont is different demographically.”"
+          },
+          {
+            "type": "text",
+            "value": "While the change of scenery presented a challenge for the New Haven native, the then-assistant coach at Vermont, Curtis Wilson, played a major role in convincing him to commit to the program. After receiving a two-page letter from a coach who looked like him, Carberry felt much more comfortable with joining the program. Carberry credits the sport with helping him integrate as well. Playing basketball helped him find a home on campus."
+          },
+          {
+            "type": "text",
+            "value": "“Sports always helps in the differences of ethnicities and backgrounds,” Carberry said, “It helps to have automatic, connected family … through the sport of basketball.”"
+          },
+          {
+            "type": "text",
+            "value": "While at Vermont, Carberry ranked 13th in all-time scoring and was in the top 10 in games played by the end of his senior year. After his successful collegiate career, the 6-foot-2 guard tried his luck at the professional level and was drafted into the National Basketball Association Development League, contemporarily known as the G-League, upon graduation."
+          },
+          {
+            "type": "text",
+            "value": "Playing alongside the likes of future Houston Rockets head coach Ime Udoka and Chicago Bulls player Corey Benjamin, Carberry got a taste of how intense professional basketball could be for the seven years he played at that level. “I always wanted to play for as long as I could,” Carberry said. “You talk about a competitive environment. … Professional basketball is a lot different when everybody’s looking to be that next call-up.”"
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "timeline.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Carberry returned to Connecticut after a brief stint in Hungary to conclude his professional career. Upon his return from professional play, Carberry immediately started his coaching career at Southern Connecticut State University while working as a teacher at Street Leadership Academy, a school that works with juveniles transferring out of the justice system."
+          },
+          {
+            "type": "text",
+            "value": "“I always said that if I ever get the opportunity after playing, I’d like to explore the career of coaching. It was a natural transition for me,” Carberry said. “Coaching part-time gave me the time around the game that I needed to say, ‘Look, I want to try to make a career out of this.’ Fortunately, it’s going pretty well.”"
+          },
+          {
+            "type": "text",
+            "value": "After multiple assistant coaching stints, Carberry returned to his hometown of New Haven, working at Yale under the longest-serving Black Division I head coach, James Jones. The two first interacted when Carberry was a player at Vermont, with Jones trying to first recruit Carberry before gaining his first win at Yale as an assistant coach."
+          },
+          {
+            "type": "text",
+            "value": "Nonetheless, Carberry has always viewed Jones as a “​role model” for the success he’s had as one of the few Black coaches at the Division I level. During their three-year stint together, the mutual respect only grew."
+          },
+          {
+            "type": "text",
+            "value": "“Tobe’s a tremendous person. If you don’t like Tobe Carberry, there’s nothing wrong with Tobe Carberry, there’s something wrong with you,” Jones said. “He’s just such a good man and he does things the right way and works really hard.”"
+          },
+          {
+            "type": "text",
+            "value": "During their partnership, Carberry helped the Bulldogs win two Ivy League titles and net a combined 30 wins. While the amount of success was a great experience for the Connecticut native, the major takeaways Carberry had from his time in New Haven came from how he observed Jones operate as a coach who looks like himself."
+          },
+          {
+            "type": "text",
+            "value": "“It’s a confidence booster—like, look, this can be done. This is the type of work ethic you have to have. This is the type of knowledge you have to have,” Carberry said. “To see him manage this program on a day-to-day basis, not only is it great for me in a learning sense, but it’s really a boost of confidence too.”"
+          },
+          {
+            "type": "text",
+            "value": "Unfortunately, Carberry was unable to stay at Yale after the 2019-20 season because his position was unpaid. However, he had built a relationship with Lion head coach Jim Engles, who offered him a spot on the coaching staff at Columbia."
+          },
+          {
+            "type": "text",
+            "value": "“When [Carberry] got into coaching we’d crossed paths many times. When I was at NJIT, he always came up, and when I was looking for an assistant, he always came up in the conversations,” Engles said."
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "25%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/YKMEGMZXJZFVXNPIJT73ABEX4U.jpg",
+              "caption": "“Coach Engles was somebody that every time I was on the road, I could sit down and watch the game with him, talk to him,” Carberry said.",
+              "credit": "Courtesy of Columbia Athletics"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Carberry joined Engles’ staff in August 2020. During his four years in Morningside Heights, Carberry has made a difference for the players on and off the court. As a role model for the team, he makes a big effort to support his players beyond the context of basketball. Being from a similar background as some of his players, he connects with them."
+          },
+          {
+            "type": "text",
+            "value": "“Coach Carberry’s impact off the court with us is very important,” sophomore guard Avery Brown said. “Since we have the same culture, same background, we watch the same television shows and movies.”"
+          },
+          {
+            "type": "text",
+            "value": "“Any time you have that relationship with a coach, I think it’s easy to connect with because you guys are into the same things,” he added."
+          },
+          {
+            "type": "text",
+            "value": "Having Carberry as a role model for the players extends far beyond his basketball prowess. Being one of few African American coaches in Division I basketball, many players look to him as an example in life as well."
+          },
+          {
+            "type": "text",
+            "value": "“He’s helping us become powerful and successful young Black men, when we’re on the court and off the court as well,” junior guard Jaden Cooper said. Carberry’s coaching has helped players develop skills in the classroom, and he gives them advice on life beyond basketball."
+          },
+          {
+            "type": "text",
+            "value": "“He’s a big help in school, making sure we’re on top of our work, that we’re going to class … and creating good relationships with people on campus and networking with the student body,” Brown said. “It’s much more than basketball.”"
+          },
+          {
+            "type": "text",
+            "value": "Carberry always leads by example with his behavior on the court. “Talking properly, always being respectful—it’s the little things that Carberry does on a daily basis and we just pick up on that,” Brown said."
+          },
+          {
+            "type": "text",
+            "value": "Carberry’s support also comes from a place of understanding. When Cooper was struggling with his shots, Carberry found ways to help him beyond the court."
+          },
+          {
+            "type": "text",
+            "value": "“I know what kind of family he comes from. I know he’s big on faith, I know he’s a believer, and there was a gospel song that I had heard on the way into work on a radio station that fit what he was going through to a T,” Carberry said. “I told him, ‘Man, you better listen to the song three times on the bus ride up … and listen to it one time before each game.”"
+          },
+          {
+            "type": "text",
+            "value": "“Just in a song about trusting my work and trusting God, having faith in God, it really meant a lot to me because everybody has their own belief, but it just goes to show how he pays attention to connect with each and every one of us,” Cooper said."
+          },
+          {
+            "type": "text",
+            "value": "Engles credited Carberry’s unique perspective from his time playing professionally with helping the team as a mentor."
+          },
+          {
+            "type": "text",
+            "value": "“A lot of our guys are looking for mentors like that, who have been through that experience. They’ve had good careers and been able to play professionally … and his experiences have been sort of integral for a lot of these guys when they’re going through the development process in college.”"
+          },
+          {
+            "type": "text",
+            "value": "Carberry’s varied work experience has helped the team learn about all the hard work it takes to succeed in the sport and beyond. Engles expanded on his resiliency: “He’s an unbelievable example … of what this is supposed to be about. … He’s really worked hard to get to where he’s gotten, and he’s really appreciated that work.”"
+          },
+          {
+            "type": "text",
+            "value": "Beyond Columbia, Carberry founded Haven4Hoops in 2016, an organization “focused on fundamental skill instruction and confidence building through basketball.” His inspiration for the program came from a desire to share his experience with the New Haven youth, while also utilizing available gyms throughout the community."
+          },
+          {
+            "type": "text",
+            "value": "“I was at home… and had some gym availability at local middle schools and a sport center in the greater New Haven area, so I just said let me give a shot at having my own clinic,” Carberry said."
+          },
+          {
+            "type": "text",
+            "value": "Carberry uses this camp to give personalized attention and feedback to kids ages eight to 12, helping them thrive. Carberry described “the whole premise” behind the program as “providing a haven for kids who are enthusiastic about the game of basketball to have skill development through the game.”"
+          },
+          {
+            "type": "text",
+            "value": "While Haven4Hoops is one way in which he has already interacted with the New Haven community, Carberry hopes to bring the same exposure to the children of surrounding communities in Harlem and Morningside Heights."
+          },
+          {
+            "type": "text",
+            "value": "“That’s one thing that helped me a lot was my father brought me to a lot of these games and events,” Carberry recalled. “Seeing guys that look like me playing ball and doing it at a collegiate level made me feel as though there was a chance that I could do it. So I worked towards it.”"
+          },
+          {
+            "type": "text",
+            "value": "Deputy Sports Editor Takashi Williams<i> can be contacted at </i><a href=\"mailto:takashi.williams@columbiaspectator.com\"><i>takashi.williams@columbiaspectator.com</i></a><i>. Follow him on X </i><a href=\"https://twitter.com/takashiversace\"><i>@takashiversace</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Staff Writer Arielle Rieder can be contacted at </i><a href=\"mailto:arielle.rieder@columbiaspectator.com\"><i>arielle.rieder@columbiaspectator.com</i></a><i>. Follow Spectator Sports on X</i><i> </i><a href=\"https://twitter.com/cuspecsports?lang=en\"><i>@CUSpecSports</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "Deputy Graphics Editor Jenny Ye <i>can be contacted at </i><a href=\"mailto:jenny.ye@columbiaspectator.com\"><i>jenny.ye@columbiaspectator.com</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "Graphics Reporter Wilson Zhen <i>can be contacted at </i><a href=\"mailto:wilson.zhen@columbiaspectator.com\"><i>wilson.zhen@columbiaspectator.com</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>. </i></b>"
+          }
+        ],
+        "headline": "Tobe Carberry: A coach and role model for Columbia men’s basketball",
+        "date": "February 13, 2024",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/arielle-rieder/\">Arielle Rieder</a> and <a href=\"https://www.columbiaspectator.com/contributors/takashi-williams/\">Takashi Williams</a>. Graphics by <a href=\"https://www.columbiaspectator.com/contributors/jenny-ye/\">Jenny Ye</a> and <a href=\"https://www.columbiaspectator.com/contributors/wilson-zhen/\">Wilson Zhen</a>.",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
         "USE_COVER_HED": false,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1vvIKJpKiFwd8yD_4q7QgmzsEOFGNwTwXiH7huNDxsFE/edit"
       }
     }
   }
